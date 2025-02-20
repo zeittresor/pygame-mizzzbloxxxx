@@ -6,7 +6,7 @@ mizzz_bloxxxx by zeittresor.de
 Classical 3-Out Game.. just try to combine 3 or 
 more same bugs in a row to remove a group..
 
-btw. the Game is written 90 % written using different AI's:
+btw. the Game is 90 % written using different AI's using prompts:
 - OpenAI o1 (Code)
 - OpenAI o1-mini (Code)
 - OpenAI o3-mini-high (Code)
