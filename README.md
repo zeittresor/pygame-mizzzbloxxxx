@@ -7,6 +7,8 @@ Classical 3-Out Game.. just try to combine 3 or
 more same bugs in a row to remove a group..
 mizzz_bloxxxx by github.com/zeittresor
 
+![ingame](https://github.com/user-attachments/assets/c5a494dd-d9be-4f12-a1c6-0e44be2e8f11)
+
 v 3.0 20.02.2025
 - English language translation
 - New "Xeno Bug" Symbols added (made using 
