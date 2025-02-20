@@ -5,6 +5,21 @@ mizzz_bloxxxx by zeittresor.de
 
 Classical 3-Out Game.. just try to combine 3 or 
 more same bugs in a row to remove a group..
+
+btw. the Game is written 90 % written using different AI's:
+OpenAI o1 (Code)
+OpenAI o1-mini (Code)
+OpenAI o3-mini-high (Code)
+OpenAI 4o (Questions for better prompts)
+Llama 3.1 (Questions for better prompts)
+Stable Diffusion Forge WebUI (Background)
+Layer Diffusion for Forge WebUI (Symbols with transparent alpha channel)
+Log0Gen (own generator script)
+SoundHelix (Algorithmic music)
+2% of the game are edited using notepad++
+1% of the game graphics are modified using human changes using paint .net
+7% Approximitly 250 questions using simple prompts to the different AI's :-)
+
 mizzz_bloxxxx by github.com/zeittresor
 
 ![ingame](https://github.com/user-attachments/assets/c5a494dd-d9be-4f12-a1c6-0e44be2e8f11)
