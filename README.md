@@ -18,9 +18,13 @@ offline SD Forge / Layer Diffusion)
 - Songs by Suno removed to avoid possible 
 problems with the copyright (just add your 
 own music to the data folder as .mp3 files)
-
 -> Replaced by Songs created using Soundhelix (https://www.soundhelix.com/)
 - First uploaded version released to github
+
+Note: If you just run the python script without the data folder it will also work
+but in that case without sound or additional graphics looking like this:
+
+![mizzzbloxxxx_plaint](https://github.com/user-attachments/assets/9f8c0d9a-d069-4013-a779-3189b0353075)
 
 v 2.1 21.12.2024
 - Beta bloxxxxx internal mod (testing)
