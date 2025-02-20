@@ -18,6 +18,7 @@ offline SD Forge / Layer Diffusion)
 - Songs by Suno removed to avoid possible 
 problems with the copyright (just add your 
 own music to the data folder as .mp3 files)
+
 -> Replaced by Songs created using Soundhelix (https://www.soundhelix.com/)
 - First uploaded version released to github
 
