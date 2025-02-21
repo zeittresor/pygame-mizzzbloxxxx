@@ -24,6 +24,9 @@ mizzz_bloxxxx by github.com/zeittresor
 
 ![ingame](https://github.com/user-attachments/assets/c5a494dd-d9be-4f12-a1c6-0e44be2e8f11)
 
+Note: The generating parameters for the block1..8.png and the background.png to mod this are embedded into the .png file metadata to use with layer diffusion / sd forge webui.
+( ...or use my script to get them using https://github.com/zeittresor/py-sd-modmetadata )
+
 v 3.0 20.02.2025
 - English language translation
 - New "Xeno Bug" Symbols added (made using 
