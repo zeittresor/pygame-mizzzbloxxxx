@@ -517,7 +517,7 @@ def animate_falling(columns):
             screen.blit(shadow_surface,sp)
             screen.blit(text_surface,text_rect)
 
-        c_text=f"Killed Xeno-Bug Blocks: {blocks_cleared}"
+        c_text=f"Killed Xenobug Blocks: {blocks_cleared}"
         c_s=counter_font.render(c_text,True,(255,255,255))
         sc_s=counter_font.render(c_text,True,(0,0,0))
         c_rect=c_s.get_rect()
